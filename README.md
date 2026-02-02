@@ -10,3 +10,6 @@ This project focuses on cleaning and standardizing a raw dataset containing info
 * **Data Standardization**: Used `TRIM` to clean string data and handled inconsistent naming conventions.
 * **Date Conversion**: Converted text-based dates into the proper `DATE` format using `STR_TO_DATE`.
 * **Handling Nulls**: Populated missing values (e.g., industry data) using Self-Joins based on existing records.
+
+## Podziękowania i Inspiracje
+Projekt został zrealizowany w celach edukacyjnych na podstawie materiałów szkoleniowych **Alexa The Analyst**.
