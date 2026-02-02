@@ -11,5 +11,5 @@ This project focuses on cleaning and standardizing a raw dataset containing info
 * **Date Conversion**: Converted text-based dates into the proper `DATE` format using `STR_TO_DATE`.
 * **Handling Nulls**: Populated missing values (e.g., industry data) using Self-Joins based on existing records.
 
-## Podziękowania i Inspiracje
-Projekt został zrealizowany w celach edukacyjnych na podstawie materiałów szkoleniowych **Alexa The Analyst**.
+## Credits & Inspiration
+This project was created for educational purposes, following the comprehensive SQL Data Cleaning tutorial by **Alex The Analyst**. It served as a practical exercise to master advanced SQL techniques and data manipulation workflows.
